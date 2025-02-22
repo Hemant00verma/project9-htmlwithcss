@@ -387,16 +387,17 @@ nav{
   }
   footer{
     background-color: rgb(68, 68, 227);
-    overflow: hidden;
     margin-top: 50px;
+    overflow: hidden;
     
    
 }
 .footer-section {
     display: flex;
     justify-content: space-between;
-    height: 45vh;
+    height: 48vh;
     align-items: center;
+
 }
 .footer-left {
     display: flex;
