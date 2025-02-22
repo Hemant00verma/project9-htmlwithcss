@@ -12,7 +12,8 @@ body{
 }
 nav{
     height: 60vh;
-    background-color: blue;
+    background-color: rgb(68, 68, 227);
+    
 }
 .navigation{
     display: flex;
